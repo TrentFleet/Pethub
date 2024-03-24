@@ -1,3 +1,5 @@
+"use client"
+
 import Theme from './_navbar/theme';
 import Menu from './_navbar/menu';
 import Smallscreen from './_navbar/smallscreen';
